@@ -1,0 +1,12 @@
+coverage
+cypress
+test
+node_modules
+.parcel-cache
+.cache
+
+.travis.yml
+.eslintrc.js
+.editorconfig
+cypress.json
+index.html
